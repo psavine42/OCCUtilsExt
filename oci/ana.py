@@ -1,0 +1,3 @@
+"""
+Analytical Geometry namespaces
+"""
